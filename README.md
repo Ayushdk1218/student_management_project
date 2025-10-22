@@ -1,6 +1,6 @@
-Student Management System (Java Swing + MySQL)
+Student Management System 
 ============================================
-This is a simple CRUD desktop application using Java Swing and MySQL (via JDBC).
+This is a simple CRUD desktop application using Java Swing and MySQL 
 
 Features
 - Add, Update, Delete, and View students
